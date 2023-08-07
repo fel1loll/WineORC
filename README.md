@@ -1,6 +1,6 @@
 <div align="center" class="tip" markdown="1" style>
 
-![wineorc logo](https://raw.githubusercontent.com/DarDarDoor/Wineorc/main/photos/Wineorclogo.png)
+![wineorc logo](https://raw.githubusercontent.com/PlaceholderLabs/Wineorc/main/photos/Wineorclogo.png)
 ![wine ver](https://img.shields.io/badge/wine-7.20--8.X-red) 
 ![repo ver](https://img.shields.io/badge/Current%20version-2.8_plh-success) 
 ![lol](https://img.shields.io/badge/Pretty-cool-informational)
@@ -86,7 +86,7 @@ If those don't work, create a Github Issue.
 
 <div align="center" class="tip" markdown="1" style>
 
-![itteblox working](https://raw.githubusercontent.com/DarDarDoor/Wineorc/main/photos/ittebloxlinux.png)
+![itteblox working](https://raw.githubusercontent.com/PlaceholderLabs/Wineorc/main/photos/ittebloxlinux.png)
 
 ItteBlox 2016 working on Arch Linux via wineORC
 
