@@ -1,24 +1,22 @@
-<div align="center" class="tip" markdown="1" style>
+Fork from PlaceholderLabs WineORC script, with the addtion of more revivals, :P.
 
-![wineorc logo](https://raw.githubusercontent.com/PlaceholderLabs/Wineorc/main/photos/Wineorclogo.png)
-![wine ver](https://img.shields.io/badge/wine-7.20--8.X-red) 
-![repo ver](https://img.shields.io/badge/Current%20version-2.8_plh-success) 
-![lol](https://img.shields.io/badge/Pretty-cool-informational)
-![lol](https://img.shields.io/badge/Not-by%20dardardar-informational)
-
-</div>
-
-# 🍷 A simple Shell script to setup ORC private-servers automatically on Linux
-
-This script is ***not supported, authorized, or afilliated in any way, shape or form*** by the official devs of these private-servers. (except Placeholder)
-
-*wineORC 2.8+ is also not supported, authorized, afilliated, a part of, or maintained by DarDarDar.*
+This script is ***not supported, authorized, or afilliated in any way, shape or form*** by the official devs of these private-servers.
 
 ## Supported Revivals
-* Projekt Placeholder (Public & Private)
-* IttehBlox
-* SyntaxEco (unknown & untested - use at own risk!)
-  - more can be added via pull request.
+* SyntaxEco (unchanged from the original script)
+* Austiblox
+* ECS:R
+
+## Revivals on this script that i need to fix
+* Projekt Placeholder
+
+## Current Issues
+Austiblox and ECS:R client downloads links are from my google drive. Reason being that, Austiblox uses MEGA to download their client, which is impossible to download with (for example) wget without the use of special tools, and ECS.R needs you to be logged in to download clients from their website. If this script gets some attention i will try to fix that, in the meantime its all i have to give.
+
+## Notes
+Please be patient on the installation of Austiblox, since the DotNet dependencies take a huge time to fullfil in Linux with WINE.
+
+## This next section is from the original page, if you have any problem with the script, pretty please file a Issue report. Thanks!
 
 ## ⚡ What this does
 This script will download dependencies, register URI and install the private-server of choice. It can also install DXVK, and uninstall the revival of choice.
